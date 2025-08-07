@@ -5,11 +5,15 @@
 ## 🚀 ¿Cómo funciona?
 
 1. **Agrega los nombres** de tus amigos en el campo de texto y haz clic en "Añadir". ¡No se permiten nombres repetidos!
+   
 <img width="620" height="256" alt="image" src="https://github.com/user-attachments/assets/02860839-d780-472b-9c8f-1936ad36a072" />
+
 3. Cuando tengas al menos dos participantes, haz clic en el botón **"Sortear amigo"**.
+   
 <img width="650" height="340" alt="image" src="https://github.com/user-attachments/assets/2d67f956-d391-48a3-ab51-c08815d61a5f" />
 
 5. El sistema elegirá aleatoriamente un nombre y lo mostrará como el amigo secreto sorteado.
+   
 <img width="1309" height="637" alt="image" src="https://github.com/user-attachments/assets/2e4b7b5a-4a69-47ad-a171-ac7f012cc8ed" />
 
 7. El ganador se elimina de la lista para que puedas seguir sorteando entre los demás.
